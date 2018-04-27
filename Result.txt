@@ -1,0 +1,6 @@
+P:17 
+ g:13
+Random numbers: 
+ SA:18 
+ SB:7
+16 is the secret number!
